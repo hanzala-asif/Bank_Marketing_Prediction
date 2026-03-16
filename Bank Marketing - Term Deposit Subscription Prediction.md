@@ -1,5 +1,5 @@
 # Bank Marketing - Term Deposit Subscription Prediction
-
+ 
 ## Task Objective
 The main aim of this assignment is to come up with a predictive model that will be used to determine the likelihood of a bank customer subscribing to a term deposit based on a marketing campaign. This project is a binary classification challenge that seeks the population demographics of customers, their historical interaction with campaigns, and more general social-economic indexes. With the right forecast of subscription, the financial institutions will be able to create the most effective marketing strategies, allocate the resources in the most efficient way and increase the rate of conversion of customers.
 
